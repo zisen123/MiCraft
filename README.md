@@ -1,3 +1,3 @@
 # MiCraft
-En développement.
+En développement.  
 Restez à l'écoute
